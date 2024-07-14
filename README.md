@@ -25,6 +25,8 @@ The decryption script does the following:
 
 ## Usage
 
+Install the cryptography library using `pip install cryptography` in Windows before running.
+
 1. **Encrypt Files**:
     ```sh
     python3 LockdownX.py
